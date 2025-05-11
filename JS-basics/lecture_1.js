@@ -9,6 +9,7 @@ let accountState // The vale of this variable is undefined
 
 var accountPassword = "12345"
 accountCity = "Jaipur"
+/* Practice not to use "var" */
 
 console.log(accountId)
 
